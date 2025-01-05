@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile build failure caused by missing dependencies or errors in the application code. The initial Dockerfile contains the error. The solution demonstrates how to resolve the issue by properly installing the required packages and resolving any issues in the application code.
